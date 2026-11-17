@@ -22,5 +22,35 @@
     "colorHeader": "#FED0FD",
     "colorBody": "#FEE5FD",
     "colorText": "#18181A"
+  },
+  {
+    "id": "color-pink",
+    "colorHeader": "#FFC6D9",
+    "colorBody": "#FFE0EB",
+    "colorText": "#18181A"
+  },
+  {
+    "id": "color-orange",
+    "colorHeader": "#FFD6B3",
+    "colorBody": "#FFE7D1",
+    "colorText": "#18181A"
+  },
+  {
+    "id": "color-teal",
+    "colorHeader": "#A5DFD3",
+    "colorBody": "#BFEBE2",
+    "colorText": "#18181A"
+  },
+  {
+    "id": "color-red",
+    "colorHeader": "#FFC2C2",
+    "colorBody": "#FFDDDD",
+    "colorText": "#18181A"
+  },
+  {
+    "id": "color-gray",
+    "colorHeader": "#DCDCE0",
+    "colorBody": "#EBEBEF",
+    "colorText": "#18181A"
   }
 ]
